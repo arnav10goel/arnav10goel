@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m Arnav Goel and I am currently working as an Undergraduate Researcher at the Multimodal Digital Media Analysis Lab (MIDAS-IIITD).
-- 👀 I’m interested in Operating Systems, Algorithms, Machine Learning and Game Theory.
+- 👀 I’m interested in Algorithms, Machine Learning and Game Theory.
 - 🌱 I’m currently learning Pytorch and Deep Learning and trying my hands on Natural Language Processing (NLP).
 - 💞️ I’m looking to collaborate on ML/DL-related projects.
 - 📫 You can reach me on my Linkedin or my Mail
