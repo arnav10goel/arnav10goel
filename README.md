@@ -1,8 +1,8 @@
 # 💫 About Me:
-- 👋 Hi, I’m Arnav Goel and I am a 3rd year Undergraduate majoring in Computer Science and Artificial Intelligence at IIIT Delhi.
+- 👋 Hi, I’m Arnav Goel and I am a 3rd year undergraduate majoring in Computer Science and Artificial Intelligence at IIIT Delhi.
 - 👀 I’m interested in Deep Learning, Natural Language Processing and Speech/Audio Processing.
-- 🌱 I’m currently working on projects related to Large Language Models, Knowledge Graphs and Text-to-Speech systems.
-- 💞️ I’m looking to collaborate on projects related to Natural Language Processing.
+- 🌱 I’m currently working on projects related to Large Language Models (LLMs), Knowledge Graphs and Text-to-Speech systems.
+- 💞️ I’m looking to collaborate on projects related to Natural Language Processing (NLP), Speech Processing and Deep Learning.
 - 📫 You can reach me on my Linkedin or my Mail
 
 
