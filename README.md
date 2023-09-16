@@ -1,8 +1,8 @@
 # 💫 About Me:
-- 👋 Hi, I’m Arnav Goel and I am currently working as an Undergraduate Researcher at the Multimodal Digital Media Analysis Lab (MIDAS-IIITD).
-- 👀 I’m interested in Algorithms, Machine Learning and Game Theory.
-- 🌱 I’m currently learning Pytorch and Deep Learning and trying my hands on Natural Language Processing (NLP).
-- 💞️ I’m looking to collaborate on ML/DL-related projects.
+- 👋 Hi, I’m Arnav Goel and I am a 3rd year Undergraduate in Computer Science and Artificial Intelligence at IIIT Delhi.
+- 👀 I’m interested in Deep Learning, Natural Language Processing and Speech/Audio Processing.
+- 🌱 I’m currently working on projects related to Large Language Models, Information Retrieval and Text-to-Speech systems.
+- 💞️ I’m looking to collaborate on projects related to Natural Language Processing.
 - 📫 You can reach me on my Linkedin or my Mail
 
 
