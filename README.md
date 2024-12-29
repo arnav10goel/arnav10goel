@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m Arnav Goel and I am a 4th year undergraduate majoring in Computer Science and Artificial Intelligence at IIIT Delhi.
-- 👀 I’m boradly interested in Deep Learning and its applications to natural and spoken language processing.
-- 🌱 I’m currently working on projects to make LLMs explainable, controllable, reliable and inclusive.
+- 👀 I’m broadly interested in Deep Learning and its applications to Natural Language Processing
+- 🌱 I’m currently working on projects to make LLMs **explainable**, **controllable**, **trustworthy** and **inclusive**.
 - 💞️ I’m looking to collaborate on projects related to Natural Language Processing (NLP) and Large Language Models (LLMs).
 - 📫 You can reach me on my Linkedin or my Mail
 
